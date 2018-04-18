@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font: 16px normal Arial, sans-serif;
+}
+main {
+    margin: 2% auto;
+    width: 75%;
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #eee;
+    padding: 10px;
+}
+label, button {
+    display: block;
+    margin: 1em 0;
+}
+footer {
+    font-size: 0.8em;
+    margin: 2em 0;
+    text-align: center;
+}
+form ul {
+    margin: 0;
+    padding: 0;
+}
+form ul > li {
+    list-style: none;
+}
